@@ -485,3 +485,5 @@
 .row>.figure,.col>.figure{margin-bottom:24px}.gallery-grid .figure{margin-bottom:0}
 .form-card{background:none;padding:0;box-shadow:none;border-radius:0;min-height:0}
 .hero-sub{color:#dbe3ec;font-size:1.1rem;max-width:46ch;margin:0 0 1.6em}
+.figure img{height:auto}
+.blurb .figure img{height:190px}
